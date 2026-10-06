@@ -13,7 +13,7 @@ function NavBar() {
                     ))}
                 </ul>
 
-                <div className="flex-center dap-3">
+                <div className="flex-center dap-3 mr-5">
                     <button>
                         <img src="/search.svg" alt="search" />
                     </button>
